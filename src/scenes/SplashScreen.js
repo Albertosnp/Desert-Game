@@ -35,9 +35,7 @@ export default class SplashScreen extends Phaser.Scene {
     
   }
 
-  update() {
-
-  }
+  update() {}
 }
 
 const styleOfTitle = {
